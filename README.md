@@ -13,14 +13,14 @@ This project demonstrates a simple **machine learning classification workflow** 
 - `requirements.txt` → Required Python packages  
 - `README.md` → Project documentation  
 
----
+
 
 ## ⚙️ Setup Instructions
 1. Clone the repository:
    ```bash
    git clone <repo_url>
    cd suv-car-purchasing-prediction
-````
+
 
 2. Install dependencies:
 
@@ -92,7 +92,6 @@ Preprocessing steps include:
 * Modify `app.py` to customize input fields
 * You can replace Logistic Regression with **SVM, RandomForest, or XGBoost** to test performance
 
----
 
 ## 🔮 Future Enhancements
 
